@@ -1,1 +1,10 @@
 /* basic css*/
+
+.header{
+    height: 100vh;
+    background: linear-gradient(rgba(153, 0, 0, 0.595), rgba(153, 0, 0, 0.595)), url('../images/photo-1534665482403-a909d0d97c67.jpeg');
+background-repeat: no-repeat;
+background-size: cover;
+background-position: center;
+clip-path: polygon(0 0, 100% 0, 100% 100%, 0 90%);
+}
