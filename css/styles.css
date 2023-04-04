@@ -8,3 +8,15 @@ background-size: cover;
 background-position: center;
 clip-path: polygon(0 0, 100% 0, 100% 100%, 0 90%);
 }
+
+.about{
+
+  padding-top: 10rem;
+  padding-bottom: 10rem;
+}
+
+.every_company{
+  background-color: #E6956D;
+  padding-top: 10rem;
+  padding-bottom: 10rem;
+}
