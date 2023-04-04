@@ -20,3 +20,26 @@ clip-path: polygon(0 0, 100% 0, 100% 100%, 0 90%);
   padding-top: 10rem;
   padding-bottom: 10rem;
 }
+
+.our-process{
+  padding-top: 5rem;
+  padding-bottom: 5rem;
+}
+
+.sticky-item{
+  position: -webkit-sticky;
+  position: sticky;
+  top: 0;
+  padding-top: 3.5rem;
+}
+
+
+@media only screen and (max-width: 800px){
+.mobile-text-center{
+  text-align: center;
+}
+
+.hide-mobile{
+  display: none !important;
+}
+}
